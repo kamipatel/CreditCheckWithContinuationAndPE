@@ -1,0 +1,18 @@
+    <template>
+
+        <lightning-button label="Start Credit Check" onclick={callContinuation}>
+        </lightning-button>
+
+        <lightning-card title="Credit check final results">
+            <div>
+                {formattedImperativeResult.message}
+            </div>
+        </lightning-card>
+
+        <lightning-card title="Credit check interim events">
+            <template for:each={messages} for:item="message">
+                <p key={message}>{message}</p>
+            </template>
+        </lightning-card>
+
+    </template>

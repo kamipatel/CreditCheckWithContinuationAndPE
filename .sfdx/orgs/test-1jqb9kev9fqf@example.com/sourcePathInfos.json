@@ -1,0 +1,328 @@
+[
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556209335423,
+            "changeTime": 1556209335423,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556209335420,
+            "changeTime": 1556209335420,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1556225985421,
+            "changeTime": 1556225985421,
+            "contentHash": "f70be454d1766db61a91de49290ca7eae4d21425",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1556209340975,
+            "changeTime": 1556209340975,
+            "contentHash": "83e8752e228b0bbf918672d9a83ed054c07ec42a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1556204839777,
+            "changeTime": 1556204839777,
+            "contentHash": "b2787c247b20b5244f84a51aa86be038d33ea5f5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.html",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.html",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1556230988044,
+            "changeTime": 1556230962962,
+            "contentHash": "246d9360a3fbaaffaf647d9825722064a1c94843",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2379,
+            "modifiedTime": 1556231062876,
+            "changeTime": 1556231062876,
+            "isWorkspace": false,
+            "contentHash": "9f53ad1a46a499939aeb832f61478078794b8147"
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.js-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/lwc/creditCheckStatus/creditCheckStatus.js-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1556206689808,
+            "changeTime": 1556206689808,
+            "contentHash": "b3f3d83bdb695ce1fd9f1ce86c0029abb04da81b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1556209335425,
+            "changeTime": 1556209335425,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/CreditStatus__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/CreditStatus__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1556205812928,
+            "changeTime": 1556205812928,
+            "contentHash": "45d5e854fc91079658a323e4d02ea99aa90c819a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/fields/message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/fields/message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 458,
+            "modifiedTime": 1556205812929,
+            "changeTime": 1556205812929,
+            "contentHash": "4d29bf7637674d6511461c8dd3255e757cf338f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4609,
+            "modifiedTime": 1556205812933,
+            "changeTime": 1556205812933,
+            "contentHash": "7ccb84a2a6aa16d4a8d4c8369ad17f5931e0710e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4947,
+            "modifiedTime": 1556205812937,
+            "changeTime": 1556205812937,
+            "contentHash": "8233198cac2a1a086e4a015029a847fb7432b175",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4609,
+            "modifiedTime": 1556205812940,
+            "changeTime": 1556205812940,
+            "contentHash": "7ccb84a2a6aa16d4a8d4c8369ad17f5931e0710e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19945,
+            "modifiedTime": 1556205812950,
+            "changeTime": 1556205812950,
+            "contentHash": "039ab42dca3e7f3cfd6b0e521295205e3be9d0bf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556205812928,
+            "changeTime": 1556205812928,
+            "contentHash": "ce5cdb6f32a910df63b5550d53563e0affef2e7f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556205812927,
+            "changeTime": 1556205812927,
+            "contentHash": "481de31f2419f14621cb232c43b7ee52f5a9b8de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/fields",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/objects/CreditStatus__e/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556205812929,
+            "changeTime": 1556205812929,
+            "contentHash": "bb366948bcb24355f2093fc7874a7f868d67a147",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1556205812950,
+            "changeTime": 1556205812950,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556225985463,
+            "changeTime": 1556225985463,
+            "contentHash": "9b292839d62be7bb3ce33e4978dd3902cc09d6af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes/CreditCheck.cls",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes/CreditCheck.cls",
+            "isDirectory": false,
+            "size": 967,
+            "modifiedTime": 1556229670216,
+            "changeTime": 1556229670216,
+            "contentHash": "8472e2b4fbb23a63005278c776afcec6a87ef01d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes/CreditCheck.cls-meta.xml",
+        {
+            "sourcePath": "/Users/kamlesh.patel/demos/lwc/AppyBank/force-app/main/default/classes/CreditCheck.cls-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1556225985463,
+            "changeTime": 1556225985463,
+            "contentHash": "ec8a2a8ded2acdc2d0052dae8ad605d83b954133",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]

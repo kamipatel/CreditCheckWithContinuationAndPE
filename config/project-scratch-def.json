@@ -1,0 +1,11 @@
+{
+  "orgName": "kamlesh.patel Salesforce",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true
+    }
+  }
+}
