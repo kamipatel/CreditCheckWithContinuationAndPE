@@ -4,7 +4,7 @@ public with sharing class CreditCheck {
 public static Object startCreditCheckRequest(){
 
     HttpRequest req = new HttpRequest();
-    req.setEndpoint('https://labappdeploy.herokuapp.com/CreditScore');
+    req.setEndpoint('https://creditcheckapp.herokuapp.com/CreditScore');
     req.setMethod('GET');
      
     Continuation con = new Continuation(60);
